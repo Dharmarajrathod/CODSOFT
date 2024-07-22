@@ -1,0 +1,22 @@
+[
+    {
+        "title": "codesoft",
+        "description": "intership task1",
+        "completed": true
+    },
+    {
+        "title": "codesoft",
+        "description": "intership task2",
+        "completed": false
+    },
+    {
+        "title": "codesoft",
+        "description": "intership task3",
+        "completed": false
+    },
+    {
+        "title": "codesoft",
+        "description": "intership task4",
+        "completed": false
+    }
+]
